@@ -1,2 +1,3 @@
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
 1	a	s	2		09990
+2 thuy 1 
