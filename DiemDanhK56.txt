@@ -1,4 +1,9 @@
 
+TT  	Hoten 	                MaSV       	      Ngaysinh   	    phone
+1	    a	s	2		09990
+2     Đinh Thị Thu Thủy       155D4802010023    21/05/1997      0395824215
+=======
+
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
 1	a	s	2		09990
 1      Lê Sỹ Vựng   25/08/1994  0362300159
