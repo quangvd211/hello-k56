@@ -1,2 +1,7 @@
+
+TT  	Hoten 	MaSV 	Ngaysinh   	phone
+1	a	s	2		09990
+2 Trần Văn Thái Sơn 155D4802010235 10/04/1996 033884127
+=======
 TT  Hoten MaSV Ngaysinh   phone
 2 Lê Văn Nam 155D4802010076 20/09/1997 0349018428
