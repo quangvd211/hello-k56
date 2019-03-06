@@ -6,7 +6,7 @@ TT  	Hoten 	                MaSV       	      Ngaysinh   	    phone
 
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
 1	a	s	2		09990
-1      Lê Sỹ Vựng   25/08/1994  0362300159
+1      Lê Sỹ Vựng   1251045285  25/08/1994  0362300159
 =======
 
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
