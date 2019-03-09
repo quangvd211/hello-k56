@@ -16,3 +16,6 @@ TT  	Hoten 	MaSV 	Ngaysinh   	phone
 TT  Hoten MaSV Ngaysinh   phone
 2 Lê Văn Nam 155D4802010076 20/09/1997 0349018428
 Nguyễn đức hùng 155D4802010131 15/11/1995 0961380995
+=======
+TT    Hoten  MaSV   Ngaysinh     phone
+1     Nguyễn Xuân Hạnh 155D4802010135 01/10/1997  0336022352
