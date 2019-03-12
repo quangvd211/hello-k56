@@ -1,4 +1,4 @@
-
+﻿
 TT  	Hoten 	                MaSV       	      Ngaysinh   	    phone
 1	    a	s	2		09990
 2     Đinh Thị Thu Thủy       155D4802010023    21/05/1997      0395824215
@@ -17,3 +17,6 @@ TT  Hoten MaSV Ngaysinh   phone
 2 Lê Văn Nam 155D4802010076 20/09/1997 0349018428
 Nguyễn đức hùng 155D4802010131 15/11/1995 0961380995
 Sầm văn mạnh 1251071596 23/04/1991  0961818944
+=============
+TT  	Hoten 		MaSV 		Ngaysinh   	phone
+2 	Nguyễn Văn Tuấn	155D4802010041	03/04/1996	0965145822 
