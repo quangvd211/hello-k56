@@ -1,21 +1,21 @@
 
+TT  	Hoten 	MaSV 	Ngaysinh   	phone
+
+
 TT  	Hoten 	                MaSV       	      Ngaysinh   	    phone
 1	    a	s	2		09990
 2     Đinh Thị Thu Thủy       155D4802010023    21/05/1997      0395824215
-=======
 
-TT  	Hoten 	MaSV 	Ngaysinh   	phone
-1	a	s	2		09990
 1      Lê Sỹ Vựng   25/08/1994  0362300159
-=======
 
-TT  	Hoten 	MaSV 	Ngaysinh   	phone
-1	a	s	2		09990
 2 Trần Văn Thái Sơn 155D4802010235 10/04/1996 033884127
-=======
-TT  Hoten MaSV Ngaysinh   phone
+
+
 2 Lê Văn Nam 155D4802010076 20/09/1997 0349018428
 Nguyễn đức hùng 155D4802010131 15/11/1995 0961380995
-=======
+
 TT    Hoten  MaSV   Ngaysinh     phone
 1     Nguyễn Xuân Hạnh 155D4802010135 01/10/1997  0336022352
+
+Sầm văn mạnh 1251071596 23/04/1991  0961818944
+Nguyễn Đình Trịnh 155D4802010080 29/11/1997  0971970895
