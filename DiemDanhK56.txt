@@ -1,5 +1,5 @@
 
-TT  	Hoten 	MaSV 	Ngaysinh   	phone
+TT Hoten MaSV Ngaysinh phone
 
 TT  	Hoten 	                MaSV       	      Ngaysinh   	    phone
 2     Đinh Thị Thu Thủy       155D4802010023    21/05/1997      0395824215
